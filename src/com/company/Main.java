@@ -6,9 +6,9 @@ public class Main {
         int a = 5;
         int b = 4;
         System.out.println("Pancakes");
-        /*for (int i = 0; i < 50; i++) {
+        for (int i = 0; i < 50; i++) {
             System.out.println(i);
-        }*/
+        }
 
         System.out.println(function(a,b));
     }
